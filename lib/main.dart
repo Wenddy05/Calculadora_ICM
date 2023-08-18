@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
       title: 'MUITO Bom essa calculadora hehe',
       theme: ThemeData(
         colorScheme:
-            ColorScheme.fromSeed(seedColor: Color.fromARGB(0,191,255)),
+            ColorScheme.fromSeed(seedColor: Color.fromARGB(255, 30, 17, 105)),
         useMaterial3: true,
       ),
       home: const MyHomePage(title: 'Calculadora'),
